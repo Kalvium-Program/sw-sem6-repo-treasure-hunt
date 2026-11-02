@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Masala Dosa", "price": 45 },
+  { "id": 2, "name": "Veg Puff", "price": 20 },
+  { "id": 3, "name": "Filter Coffee", "price": 15 }
+]
