@@ -1,5 +1,9 @@
-# Campus Canteen
+# my project
 
-Order food from the campus canteen without waiting in line.
+canteen app
 
-Run: npm start
+## run
+
+python app.py
+
+open http://localhost:5000
